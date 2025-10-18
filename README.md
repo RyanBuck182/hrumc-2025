@@ -1,6 +1,6 @@
 # HRUMC 2025
 
-The [Hudson River Undergraduate Mathematics Conference](https://sites.google.com/view/hrumc) has a fairly self-explanatory name. Basically, a bunch of undergraduates go to a conference. The cool part is that we can also give presentations to each other.
+The [Hudson River Undergraduate Mathematics Conference](https://sites.google.com/view/hrumc) has a fairly self-explanatory name. Basically, a bunch of undergraduates go to a conference and do math. The cool part is that we can also give presentations to each other.
 
 In 2024 I had a great time and learned a ton from attending a bunch of presentations. So in 2025, I decided to give a presentation myself.
 
