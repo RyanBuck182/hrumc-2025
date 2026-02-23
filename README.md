@@ -6,7 +6,7 @@ In 2024 I had a great time and learned a ton from attending a bunch of presentat
 
 My talk was on the **minimax** algorithm. I used the code in this repository to help me visualize it. I was originally going to do this manually with an online graphviz editor, but it would take ages if I wanted to go back and change something, as I would have to change every image. So I wrote this code to help me with this.
 
-It doesn't actually implement the minimax algorithm or alpha-beta pruning. This is because I only needed to create one set of images per algorithm, so implementing the algorithm and hooking it up to the visualizer seems like overkill when I only needed to visualize it once.
+It doesn't actually implement the minimax algorithm or alpha-beta pruning. This is because I only needed to create one set of images per algorithm, so implementing the algorithm and hooking it up to the visualizer seemed like overkill when I only needed to visualize it once.
 
 [Here's](https://docs.google.com/presentation/d/1meLMQG2bs-70P7D5bQUR7LbV_eX2IyHiOageeqeiqT4/edit?usp=sharing) a link to the slides I presented at the conference.
 
